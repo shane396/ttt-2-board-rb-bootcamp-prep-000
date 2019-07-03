@@ -1,4 +1,4 @@
 # Define the variable board below.
 board = [" "," "," "," "," "," "," "," "," "]
 
-row[1] = "X"
+board[1] = "X"
